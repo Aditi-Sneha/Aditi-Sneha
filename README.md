@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building web apps & smart IoT dashboards that solve real-world problems<br><br>👯 I’m looking to collaborate on<br>Innovative Web Development, MERN Stack projects & Hardware integrations<br><br>🤝 I’m looking for help with<br>Advanced Backend Architecture & Scalable System Design<br><br>🌱 I’m currently learning<br>Advanced React Patterns, System Design<br><br>💬 Ask me about<br>React.js, Tailwind CSS, IoT (MQTT), Flask, Java OOP<br><br>⚡ Fun fact<br>I love blending Web Development with Electronics — from Rescue Bots to Real-time Dashboards 🚀
+🔭 I’m currently working on<br>Building web apps & smart IoT dashboards that solve real-world problems<br><br>⚡ I’m looking to collaborate on<br>Innovative Web Development, MERN Stack projects & Hardware integrations<br><br>🤝 I’m looking for help with<br>Advanced Backend Architecture & Scalable System Design<br><br>🌱 I’m currently learning<br>Advanced React Patterns, System Design<br><br>💬 Ask me about<br>React.js, Tailwind CSS, IoT (MQTT), Flask, Java OOP<br><br>⚡ Fun fact<br>I love blending Web Development with Electronics — from Rescue Bots to Real-time Dashboards 🚀
 
 
 ## 🌐 Socials:
